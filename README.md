@@ -1,7 +1,11 @@
 # qpgen - Question Paper Generator
 
-Generates Question Paper from a question bank in csv format use mysql and python
+Generates Question Paper from a question bank in csv format using mysql and python
 
+## System Requirements
+- Python
+- MySql
+- Python Mysql connector
 
 ## Installation
 
