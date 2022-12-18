@@ -13,10 +13,13 @@ Generates Question Paper from a question bank in csv format using mysql and pyth
 - Replace the file data.csv with your own question bank using [Template](template.csv).
 - In case your are not using default credentials for mysql (user: root , password: root) change it in *main.py* file.
 
-
-
-
-
+## Flowcharts
+### Main flowchart execution
+<img
+  src="Main flow of execution.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
     
 ## Documentation
 
