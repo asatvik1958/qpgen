@@ -14,13 +14,18 @@ Generates Question Paper from a question bank in csv format using mysql and pyth
 - In case your are not using default credentials for mysql (user: root , password: root) change it in [*main.py*](main.py) file.
 
 ## Flowcharts
-### Main flowchart execution
+### Main flowchart:
 <img
   src="Main flow of execution.png"
-  alt="main flow of execution"
-  title="Main Flow of Execution"
+  alt="Main flowchart"
+  title="Main flowchart"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-    
+### Predefined Process flowchart: Create database and table
+<img
+  src="create database and table flowchart.png"
+  alt="Database and table creation flowchart"
+  title="Database and table creation flowchart"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 ## Documentation
 
 [Documentation](https://drive.google.com/file/d/1-Vn3C8QEOwFxOL9g6660_aROuDuonmaQ/view?usp=share_link)
