@@ -17,8 +17,8 @@ Generates Question Paper from a question bank in csv format using mysql and pyth
 ### Main flowchart execution
 <img
   src="Main flow of execution.png"
-  alt="Alt text"
-  title="Optional title"
+  alt="main flow of execution"
+  title="Main Flow of Execution"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
     
 ## Documentation
