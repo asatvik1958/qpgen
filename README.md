@@ -35,6 +35,3 @@ Generates Question Paper from a question bank in csv format using mysql and pyth
 ## Documentation
 
 [Documentation](https://drive.google.com/file/d/1-Vn3C8QEOwFxOL9g6660_aROuDuonmaQ/view?usp=share_link)
-
-## Report
-[Report](https://docs.google.com/document/d/15fJ0NQrqQReHDm4gTQkkMAMdV77KOeF2/edit?usp=sharing&ouid=116088529923400022772&rtpof=true&sd=true)
